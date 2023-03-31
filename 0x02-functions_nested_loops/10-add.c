@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - adds two value
+ *add - adds two value
  *@n1: the first number to be comuted
  *@n2: the second number to be comuted
  * Return: integer value
